@@ -29,3 +29,8 @@ input.cancel-exproduit {
     background-color: rgb(212, 69, 69);
     color: #fff;  
 }
+.btn-secondary {
+    color: #fff;
+    background-color: #ff0000;
+    border-color: #6c757d;
+}
